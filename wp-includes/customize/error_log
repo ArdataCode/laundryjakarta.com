@@ -1,0 +1,1088 @@
+[27-Jan-2024 15:56:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[27-Jan-2024 15:56:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[27-Jan-2024 15:56:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[27-Jan-2024 15:56:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[27-Jan-2024 15:56:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[27-Jan-2024 15:56:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[27-Jan-2024 15:57:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[27-Jan-2024 15:57:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[27-Jan-2024 15:57:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[27-Jan-2024 15:57:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[27-Jan-2024 15:57:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[27-Jan-2024 15:57:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[27-Jan-2024 15:57:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[27-Jan-2024 15:57:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[27-Jan-2024 15:57:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[27-Jan-2024 15:58:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[27-Jan-2024 15:58:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[27-Jan-2024 15:58:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[27-Jan-2024 15:58:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[27-Jan-2024 15:58:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[27-Jan-2024 15:58:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[27-Jan-2024 15:58:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[27-Jan-2024 15:58:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[27-Jan-2024 15:58:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[27-Jan-2024 15:58:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[27-Jan-2024 15:59:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[27-Jan-2024 15:59:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[27-Jan-2024 15:59:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[27-Jan-2024 15:59:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[27-Jan-2024 15:59:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[27-Jan-2024 16:00:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[27-Jan-2024 16:00:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[27-Jan-2024 16:00:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[27-Jan-2024 16:00:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[01-Feb-2024 23:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[01-Feb-2024 23:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[01-Feb-2024 23:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[01-Feb-2024 23:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[01-Feb-2024 23:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[01-Feb-2024 23:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[01-Feb-2024 23:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[01-Feb-2024 23:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[01-Feb-2024 23:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[01-Feb-2024 23:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[01-Feb-2024 23:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[01-Feb-2024 23:10:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[01-Feb-2024 23:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[19-Mar-2024 17:36:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[19-Mar-2024 17:36:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[19-Mar-2024 17:36:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[19-Mar-2024 17:36:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[19-Mar-2024 17:36:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[19-Mar-2024 17:36:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[19-Mar-2024 17:36:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[19-Mar-2024 17:36:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[19-Mar-2024 17:36:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[19-Mar-2024 17:36:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[19-Mar-2024 17:36:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[19-Mar-2024 17:36:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[19-Mar-2024 17:36:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[19-Mar-2024 17:36:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[19-Mar-2024 17:36:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[19-Mar-2024 17:36:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[19-Mar-2024 17:36:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[19-Mar-2024 17:36:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[19-Mar-2024 17:36:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[19-Mar-2024 17:36:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[19-Mar-2024 17:36:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[19-Mar-2024 17:36:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[19-Mar-2024 17:36:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[19-Mar-2024 17:36:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[19-Mar-2024 17:36:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[19-Mar-2024 17:36:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[19-Mar-2024 17:36:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[19-Mar-2024 17:36:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[19-Mar-2024 17:36:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[19-Mar-2024 17:36:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[19-Mar-2024 17:36:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[19-Mar-2024 17:36:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[19-Mar-2024 17:36:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[19-Mar-2024 17:36:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[26-Mar-2024 05:31:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[26-Mar-2024 05:31:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[26-Mar-2024 05:31:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[26-Mar-2024 05:31:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[26-Mar-2024 05:31:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[26-Mar-2024 05:31:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[26-Mar-2024 05:31:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[26-Mar-2024 05:31:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[26-Mar-2024 05:31:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[26-Mar-2024 05:31:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[26-Mar-2024 05:31:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[26-Mar-2024 05:31:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[26-Mar-2024 05:31:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[26-Mar-2024 05:31:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[26-Mar-2024 05:31:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[26-Mar-2024 05:31:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[26-Mar-2024 05:31:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[26-Mar-2024 05:31:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[26-Mar-2024 05:31:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[26-Mar-2024 05:31:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[26-Mar-2024 05:31:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[26-Mar-2024 05:31:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[26-Mar-2024 05:31:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[26-Mar-2024 05:31:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[26-Mar-2024 05:31:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[26-Mar-2024 05:31:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[26-Mar-2024 05:31:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[26-Mar-2024 05:31:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[26-Mar-2024 05:31:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[26-Mar-2024 05:31:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[26-Mar-2024 05:31:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[26-Mar-2024 05:31:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[26-Mar-2024 05:31:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[26-Mar-2024 05:31:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[26-Mar-2024 14:29:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[26-Mar-2024 14:29:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[26-Mar-2024 14:29:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[26-Mar-2024 14:29:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[26-Mar-2024 14:29:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[26-Mar-2024 14:29:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[26-Mar-2024 14:29:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[26-Mar-2024 14:29:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[26-Mar-2024 14:29:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[26-Mar-2024 14:29:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[26-Mar-2024 14:29:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[26-Mar-2024 14:29:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[26-Mar-2024 14:29:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[26-Mar-2024 14:29:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[26-Mar-2024 14:29:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[26-Mar-2024 14:29:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[26-Mar-2024 14:29:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[26-Mar-2024 14:29:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[26-Mar-2024 14:29:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[26-Mar-2024 14:29:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[26-Mar-2024 14:29:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[26-Mar-2024 14:29:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[26-Mar-2024 14:29:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[26-Mar-2024 14:29:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[26-Mar-2024 14:29:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[26-Mar-2024 14:29:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[26-Mar-2024 14:29:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[26-Mar-2024 14:29:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[26-Mar-2024 14:29:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[26-Mar-2024 14:29:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[26-Mar-2024 14:29:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[26-Mar-2024 14:29:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[26-Mar-2024 14:29:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[26-Mar-2024 14:29:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[27-Mar-2024 12:08:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[27-Mar-2024 12:08:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[27-Mar-2024 12:08:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[27-Mar-2024 12:08:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[27-Mar-2024 12:08:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[27-Mar-2024 12:08:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[27-Mar-2024 12:08:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[27-Mar-2024 12:08:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[27-Mar-2024 12:08:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[27-Mar-2024 12:08:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[27-Mar-2024 12:08:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[27-Mar-2024 12:08:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[27-Mar-2024 12:08:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[27-Mar-2024 12:08:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[27-Mar-2024 12:08:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[27-Mar-2024 12:08:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[27-Mar-2024 12:08:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[27-Mar-2024 12:08:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[27-Mar-2024 12:08:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[27-Mar-2024 12:08:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[27-Mar-2024 12:08:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[27-Mar-2024 12:08:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[27-Mar-2024 12:08:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[27-Mar-2024 12:08:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[27-Mar-2024 12:08:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[27-Mar-2024 12:08:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[27-Mar-2024 12:08:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[27-Mar-2024 12:08:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[27-Mar-2024 12:08:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[27-Mar-2024 12:08:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[27-Mar-2024 12:08:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[27-Mar-2024 12:08:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[27-Mar-2024 12:08:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[27-Mar-2024 12:08:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[27-Mar-2024 19:49:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[27-Mar-2024 19:49:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[27-Mar-2024 19:49:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[27-Mar-2024 19:49:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[27-Mar-2024 19:49:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[27-Mar-2024 19:49:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[27-Mar-2024 19:49:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[27-Mar-2024 19:49:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[27-Mar-2024 19:49:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[27-Mar-2024 19:49:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[27-Mar-2024 19:49:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[27-Mar-2024 19:49:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[27-Mar-2024 19:49:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[27-Mar-2024 19:49:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[27-Mar-2024 19:49:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[27-Mar-2024 19:49:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[27-Mar-2024 19:49:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[27-Mar-2024 19:49:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[27-Mar-2024 19:49:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[27-Mar-2024 19:49:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[27-Mar-2024 19:49:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[27-Mar-2024 19:49:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[27-Mar-2024 19:49:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[27-Mar-2024 19:49:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[27-Mar-2024 19:49:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[27-Mar-2024 19:49:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[27-Mar-2024 19:49:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[27-Mar-2024 19:49:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[27-Mar-2024 19:49:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[27-Mar-2024 19:49:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[27-Mar-2024 19:49:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[27-Mar-2024 19:49:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[27-Mar-2024 19:49:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[27-Mar-2024 19:49:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[28-Mar-2024 14:27:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[28-Mar-2024 14:27:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[28-Mar-2024 14:27:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[28-Mar-2024 14:27:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[28-Mar-2024 14:27:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[28-Mar-2024 14:27:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[28-Mar-2024 14:27:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[28-Mar-2024 14:27:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[28-Mar-2024 14:27:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[28-Mar-2024 14:27:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[28-Mar-2024 14:27:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[28-Mar-2024 14:27:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[28-Mar-2024 14:27:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[28-Mar-2024 14:27:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[28-Mar-2024 14:27:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[28-Mar-2024 14:27:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[28-Mar-2024 14:27:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[28-Mar-2024 14:27:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[28-Mar-2024 14:27:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[28-Mar-2024 14:27:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[28-Mar-2024 14:27:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[28-Mar-2024 14:27:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[28-Mar-2024 14:27:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[28-Mar-2024 14:27:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[28-Mar-2024 14:27:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[28-Mar-2024 14:27:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[28-Mar-2024 14:27:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[28-Mar-2024 14:27:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[28-Mar-2024 14:27:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[28-Mar-2024 14:27:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[28-Mar-2024 14:27:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[28-Mar-2024 14:27:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[28-Mar-2024 14:27:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[28-Mar-2024 14:27:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

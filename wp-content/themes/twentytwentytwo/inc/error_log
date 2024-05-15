@@ -1,0 +1,16 @@
+[19-Mar-2024 17:40:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/websit19/laundryjakarta.com/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135
+[26-Mar-2024 05:35:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/websit19/laundryjakarta.com/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135
+[26-Mar-2024 14:33:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/websit19/laundryjakarta.com/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135
+[27-Mar-2024 19:54:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/websit19/laundryjakarta.com/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135

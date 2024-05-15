@@ -1,0 +1,36 @@
+[27-Jan-2024 16:06:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[01-Feb-2024 23:10:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[02-Mar-2024 12:47:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[19-Mar-2024 17:37:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[26-Mar-2024 05:32:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[26-Mar-2024 14:30:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[27-Mar-2024 12:08:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[27-Mar-2024 19:50:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[28-Mar-2024 14:28:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rest-api/class-wp-rest-response.php on line 17

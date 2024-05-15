@@ -1,0 +1,2463 @@
+[27-Aug-2022 13:41:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ventions/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ventions/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[27-Aug-2022 13:42:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ventions/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ventions/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[14-Sep-2022 12:38:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ventions/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ventions/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 12:38:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ventions/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ventions/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[16-Sep-2022 07:46:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ventions/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ventions/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[16-Sep-2022 07:46:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ventions/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ventions/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[12-Jan-2024 12:38:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[12-Jan-2024 12:38:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[12-Jan-2024 12:38:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[12-Jan-2024 12:39:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[12-Jan-2024 18:12:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[12-Jan-2024 18:12:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[12-Jan-2024 18:12:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[12-Jan-2024 18:13:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[14-Jan-2024 22:01:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[14-Jan-2024 22:01:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[14-Jan-2024 22:01:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[14-Jan-2024 22:03:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[15-Jan-2024 17:58:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[15-Jan-2024 17:59:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[15-Jan-2024 17:59:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[15-Jan-2024 18:00:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[16-Jan-2024 00:09:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[16-Jan-2024 00:09:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[16-Jan-2024 00:09:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[16-Jan-2024 00:09:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[24-Jan-2024 15:45:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[24-Jan-2024 15:45:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[24-Jan-2024 15:45:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[24-Jan-2024 15:47:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[24-Jan-2024 18:08:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[24-Jan-2024 18:08:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[24-Jan-2024 18:08:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[24-Jan-2024 18:08:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[25-Jan-2024 00:45:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[25-Jan-2024 00:45:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[25-Jan-2024 00:45:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[25-Jan-2024 00:46:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[27-Jan-2024 15:54:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[27-Jan-2024 15:54:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[27-Jan-2024 15:54:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[27-Jan-2024 16:18:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[27-Jan-2024 20:14:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[27-Jan-2024 20:14:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[27-Jan-2024 20:14:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[27-Jan-2024 20:15:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[01-Feb-2024 23:10:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php on line 9
+[01-Feb-2024 23:10:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/cache.php on line 12
+[01-Feb-2024 23:10:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php on line 42
+[01-Feb-2024 23:10:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php on line 10
+[01-Feb-2024 23:10:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-http.php on line 11
+[01-Feb-2024 23:10:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-json.php on line 2
+[01-Feb-2024 23:10:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php on line 12
+[01-Feb-2024 23:10:46 Asia/Jakarta] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/websit19/laundryjakarta.com/wp-includes/class-requests.php on line 24
+[01-Feb-2024 23:10:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php on line 5
+[01-Feb-2024 23:10:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php on line 6
+[01-Feb-2024 23:10:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php on line 6
+[01-Feb-2024 23:10:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php on line 17
+[01-Feb-2024 23:10:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php on line 17
+[01-Feb-2024 23:10:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php on line 17
+[01-Feb-2024 23:10:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php on line 17
+[01-Feb-2024 23:10:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php on line 17
+[01-Feb-2024 23:10:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php on line 17
+[01-Feb-2024 23:10:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php on line 709
+[01-Feb-2024 23:10:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php on line 411
+[01-Feb-2024 23:10:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php on line 412
+[01-Feb-2024 23:10:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php on line 964
+[01-Feb-2024 23:10:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php on line 11
+[01-Feb-2024 23:10:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php on line 9
+[01-Feb-2024 23:10:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php on line 18
+[01-Feb-2024 23:10:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php on line 17
+[01-Feb-2024 23:10:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[01-Feb-2024 23:10:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php on line 16
+[01-Feb-2024 23:10:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php on line 16
+[01-Feb-2024 23:10:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[01-Feb-2024 23:10:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php on line 19
+[01-Feb-2024 23:10:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[01-Feb-2024 23:10:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[01-Feb-2024 23:10:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[01-Feb-2024 23:10:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[01-Feb-2024 23:10:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[01-Feb-2024 23:10:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php on line 24
+[01-Feb-2024 23:10:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php on line 11
+[01-Feb-2024 23:10:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php on line 11
+[01-Feb-2024 23:10:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php on line 11
+[01-Feb-2024 23:10:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/compat.php on line 338
+[01-Feb-2024 23:10:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/date.php on line 11
+[01-Feb-2024 23:10:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php on line 22
+[01-Feb-2024 23:10:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php on line 11
+[01-Feb-2024 23:10:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php on line 11
+[01-Feb-2024 23:10:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php on line 8
+[01-Feb-2024 23:10:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php on line 8
+[01-Feb-2024 23:10:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php on line 8
+[01-Feb-2024 23:10:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php on line 8
+[01-Feb-2024 23:10:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php on line 8
+[01-Feb-2024 23:10:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php on line 8
+[01-Feb-2024 23:10:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/functions.php on line 8
+[01-Feb-2024 23:10:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/locale.php on line 11
+[01-Feb-2024 23:10:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/websit19/laundryjakarta.com/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/media.php on line 2317
+[01-Feb-2024 23:10:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/meta.php on line 13
+[01-Feb-2024 23:10:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php on line 11
+[01-Feb-2024 23:10:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php on line 16
+[01-Feb-2024 23:10:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php on line 35
+[01-Feb-2024 23:10:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php on line 11
+[01-Feb-2024 23:10:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php on line 9
+[01-Feb-2024 23:10:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration.php on line 9
+[01-Feb-2024 23:10:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rss.php on line 19
+[01-Feb-2024 23:10:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php on line 20
+[01-Feb-2024 23:10:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/session.php on line 9
+[01-Feb-2024 23:10:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php on line 14
+[01-Feb-2024 23:10:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[01-Feb-2024 23:10:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php on line 7
+[01-Feb-2024 23:10:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/websit19/laundryjakarta.com/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/update.php on line 1149
+[01-Feb-2024 23:10:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/websit19/laundryjakarta.com/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/vars.php on line 23
+[01-Feb-2024 23:10:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php on line 13
+[04-Feb-2024 23:50:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[04-Feb-2024 23:50:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[04-Feb-2024 23:50:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[04-Feb-2024 23:51:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[06-Feb-2024 06:26:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[06-Feb-2024 06:26:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[06-Feb-2024 06:26:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[06-Feb-2024 06:27:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[07-Feb-2024 16:29:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[07-Feb-2024 16:30:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[07-Feb-2024 16:30:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[07-Feb-2024 16:31:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[11-Feb-2024 14:39:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[11-Feb-2024 14:39:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[11-Feb-2024 14:39:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[11-Feb-2024 14:40:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[12-Feb-2024 09:10:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[12-Feb-2024 09:10:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[12-Feb-2024 09:10:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[12-Feb-2024 09:12:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[16-Feb-2024 04:17:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[16-Feb-2024 04:17:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[16-Feb-2024 04:17:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[16-Feb-2024 04:18:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[03-Mar-2024 23:36:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[03-Mar-2024 23:36:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[03-Mar-2024 23:36:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[03-Mar-2024 23:37:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[05-Mar-2024 07:49:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[05-Mar-2024 07:49:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[05-Mar-2024 07:50:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[05-Mar-2024 07:51:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[06-Mar-2024 12:23:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[06-Mar-2024 12:23:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[06-Mar-2024 12:23:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[06-Mar-2024 12:24:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[07-Mar-2024 21:28:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[07-Mar-2024 21:28:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[07-Mar-2024 21:28:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[07-Mar-2024 21:29:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[08-Mar-2024 05:42:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[08-Mar-2024 05:42:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[08-Mar-2024 05:42:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[08-Mar-2024 05:43:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[12-Mar-2024 04:33:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[12-Mar-2024 04:33:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[12-Mar-2024 04:33:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[12-Mar-2024 04:34:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[14-Mar-2024 15:12:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[14-Mar-2024 15:12:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[14-Mar-2024 15:12:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[14-Mar-2024 15:15:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[16-Mar-2024 06:13:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[16-Mar-2024 06:14:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[16-Mar-2024 06:14:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[16-Mar-2024 06:14:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[17-Mar-2024 10:46:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[17-Mar-2024 10:46:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[17-Mar-2024 10:47:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[17-Mar-2024 10:48:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[18-Mar-2024 21:12:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[18-Mar-2024 21:12:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[18-Mar-2024 21:12:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[18-Mar-2024 21:13:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[19-Mar-2024 17:35:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php on line 9
+[19-Mar-2024 17:35:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/cache.php on line 12
+[19-Mar-2024 17:35:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php on line 42
+[19-Mar-2024 17:35:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php on line 10
+[19-Mar-2024 17:35:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-http.php on line 11
+[19-Mar-2024 17:35:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-json.php on line 2
+[19-Mar-2024 17:35:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php on line 12
+[19-Mar-2024 17:35:38 Asia/Jakarta] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/websit19/laundryjakarta.com/wp-includes/class-requests.php on line 24
+[19-Mar-2024 17:35:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php on line 5
+[19-Mar-2024 17:35:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php on line 6
+[19-Mar-2024 17:35:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php on line 6
+[19-Mar-2024 17:35:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php on line 17
+[19-Mar-2024 17:35:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php on line 17
+[19-Mar-2024 17:35:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php on line 17
+[19-Mar-2024 17:35:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php on line 17
+[19-Mar-2024 17:35:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php on line 17
+[19-Mar-2024 17:35:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php on line 17
+[19-Mar-2024 17:35:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php on line 709
+[19-Mar-2024 17:35:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php on line 411
+[19-Mar-2024 17:35:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php on line 412
+[19-Mar-2024 17:35:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php on line 964
+[19-Mar-2024 17:35:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php on line 11
+[19-Mar-2024 17:35:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php on line 9
+[19-Mar-2024 17:35:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php on line 18
+[19-Mar-2024 17:35:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php on line 17
+[19-Mar-2024 17:35:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[19-Mar-2024 17:35:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php on line 16
+[19-Mar-2024 17:35:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php on line 16
+[19-Mar-2024 17:35:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[19-Mar-2024 17:35:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php on line 19
+[19-Mar-2024 17:35:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[19-Mar-2024 17:35:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[19-Mar-2024 17:35:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[19-Mar-2024 17:35:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[19-Mar-2024 17:36:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[19-Mar-2024 17:36:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php on line 24
+[19-Mar-2024 17:36:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php on line 11
+[19-Mar-2024 17:36:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php on line 11
+[19-Mar-2024 17:36:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php on line 11
+[19-Mar-2024 17:36:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/compat.php on line 338
+[19-Mar-2024 17:36:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/date.php on line 11
+[19-Mar-2024 17:36:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php on line 22
+[19-Mar-2024 17:36:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php on line 11
+[19-Mar-2024 17:36:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php on line 11
+[19-Mar-2024 17:36:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php on line 8
+[19-Mar-2024 17:36:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php on line 8
+[19-Mar-2024 17:36:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php on line 8
+[19-Mar-2024 17:36:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php on line 8
+[19-Mar-2024 17:36:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php on line 8
+[19-Mar-2024 17:36:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php on line 8
+[19-Mar-2024 17:36:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/functions.php on line 8
+[19-Mar-2024 17:36:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/locale.php on line 11
+[19-Mar-2024 17:36:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/websit19/laundryjakarta.com/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/media.php on line 2317
+[19-Mar-2024 17:36:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/meta.php on line 13
+[19-Mar-2024 17:36:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php on line 11
+[19-Mar-2024 17:36:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php on line 16
+[19-Mar-2024 17:36:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php on line 35
+[19-Mar-2024 17:36:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php on line 11
+[19-Mar-2024 17:36:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php on line 9
+[19-Mar-2024 17:36:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration.php on line 9
+[19-Mar-2024 17:36:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rss.php on line 19
+[19-Mar-2024 17:36:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php on line 20
+[19-Mar-2024 17:36:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/session.php on line 9
+[19-Mar-2024 17:36:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php on line 14
+[19-Mar-2024 17:36:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[19-Mar-2024 17:36:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php on line 7
+[19-Mar-2024 17:36:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/websit19/laundryjakarta.com/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/update.php on line 1149
+[19-Mar-2024 17:36:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/websit19/laundryjakarta.com/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/vars.php on line 23
+[19-Mar-2024 17:36:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php on line 13
+[20-Mar-2024 19:37:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[20-Mar-2024 19:37:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[20-Mar-2024 19:37:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[20-Mar-2024 19:38:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[21-Mar-2024 12:51:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[21-Mar-2024 12:51:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[21-Mar-2024 12:51:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[21-Mar-2024 12:52:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[22-Mar-2024 07:07:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[22-Mar-2024 07:07:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[22-Mar-2024 07:07:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[22-Mar-2024 07:08:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[26-Mar-2024 05:30:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php on line 9
+[26-Mar-2024 05:30:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/cache.php on line 12
+[26-Mar-2024 05:30:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php on line 42
+[26-Mar-2024 05:30:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php on line 10
+[26-Mar-2024 05:30:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-http.php on line 11
+[26-Mar-2024 05:30:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-json.php on line 2
+[26-Mar-2024 05:30:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php on line 12
+[26-Mar-2024 05:30:40 Asia/Jakarta] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/websit19/laundryjakarta.com/wp-includes/class-requests.php on line 24
+[26-Mar-2024 05:30:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php on line 5
+[26-Mar-2024 05:30:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php on line 6
+[26-Mar-2024 05:30:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php on line 6
+[26-Mar-2024 05:30:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php on line 17
+[26-Mar-2024 05:30:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php on line 17
+[26-Mar-2024 05:30:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php on line 17
+[26-Mar-2024 05:30:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php on line 17
+[26-Mar-2024 05:30:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php on line 17
+[26-Mar-2024 05:30:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php on line 17
+[26-Mar-2024 05:30:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php on line 709
+[26-Mar-2024 05:30:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php on line 411
+[26-Mar-2024 05:30:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php on line 412
+[26-Mar-2024 05:30:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php on line 964
+[26-Mar-2024 05:30:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php on line 11
+[26-Mar-2024 05:30:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php on line 9
+[26-Mar-2024 05:30:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php on line 18
+[26-Mar-2024 05:30:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php on line 17
+[26-Mar-2024 05:30:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[26-Mar-2024 05:30:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php on line 16
+[26-Mar-2024 05:30:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php on line 16
+[26-Mar-2024 05:30:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[26-Mar-2024 05:30:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php on line 19
+[26-Mar-2024 05:30:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[26-Mar-2024 05:31:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[26-Mar-2024 05:31:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[26-Mar-2024 05:31:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[26-Mar-2024 05:31:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[26-Mar-2024 05:31:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php on line 24
+[26-Mar-2024 05:31:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php on line 11
+[26-Mar-2024 05:31:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php on line 11
+[26-Mar-2024 05:31:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php on line 11
+[26-Mar-2024 05:31:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/compat.php on line 338
+[26-Mar-2024 05:31:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/date.php on line 11
+[26-Mar-2024 05:31:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php on line 22
+[26-Mar-2024 05:31:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php on line 11
+[26-Mar-2024 05:31:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php on line 11
+[26-Mar-2024 05:31:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php on line 8
+[26-Mar-2024 05:31:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php on line 8
+[26-Mar-2024 05:31:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php on line 8
+[26-Mar-2024 05:31:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php on line 8
+[26-Mar-2024 05:31:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php on line 8
+[26-Mar-2024 05:31:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php on line 8
+[26-Mar-2024 05:31:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/functions.php on line 8
+[26-Mar-2024 05:31:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/locale.php on line 11
+[26-Mar-2024 05:31:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/websit19/laundryjakarta.com/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/media.php on line 2317
+[26-Mar-2024 05:31:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/meta.php on line 13
+[26-Mar-2024 05:31:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php on line 11
+[26-Mar-2024 05:31:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php on line 16
+[26-Mar-2024 05:31:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php on line 35
+[26-Mar-2024 05:31:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php on line 11
+[26-Mar-2024 05:31:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php on line 9
+[26-Mar-2024 05:31:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration.php on line 9
+[26-Mar-2024 05:31:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rss.php on line 19
+[26-Mar-2024 05:31:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php on line 20
+[26-Mar-2024 05:31:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/session.php on line 9
+[26-Mar-2024 05:31:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php on line 14
+[26-Mar-2024 05:31:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[26-Mar-2024 05:31:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php on line 7
+[26-Mar-2024 05:31:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/websit19/laundryjakarta.com/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/update.php on line 1149
+[26-Mar-2024 05:31:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/websit19/laundryjakarta.com/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/vars.php on line 23
+[26-Mar-2024 05:31:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php on line 13
+[26-Mar-2024 11:47:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[26-Mar-2024 11:47:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[26-Mar-2024 11:47:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[26-Mar-2024 11:48:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[26-Mar-2024 14:28:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php on line 9
+[26-Mar-2024 14:28:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/cache.php on line 12
+[26-Mar-2024 14:28:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php on line 42
+[26-Mar-2024 14:28:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php on line 10
+[26-Mar-2024 14:28:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-http.php on line 11
+[26-Mar-2024 14:28:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-json.php on line 2
+[26-Mar-2024 14:28:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php on line 12
+[26-Mar-2024 14:28:46 Asia/Jakarta] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/websit19/laundryjakarta.com/wp-includes/class-requests.php on line 24
+[26-Mar-2024 14:28:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php on line 5
+[26-Mar-2024 14:28:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php on line 6
+[26-Mar-2024 14:28:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php on line 6
+[26-Mar-2024 14:28:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php on line 17
+[26-Mar-2024 14:28:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php on line 17
+[26-Mar-2024 14:28:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php on line 17
+[26-Mar-2024 14:28:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php on line 17
+[26-Mar-2024 14:28:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php on line 17
+[26-Mar-2024 14:28:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php on line 17
+[26-Mar-2024 14:28:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php on line 709
+[26-Mar-2024 14:28:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php on line 411
+[26-Mar-2024 14:28:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php on line 412
+[26-Mar-2024 14:28:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php on line 964
+[26-Mar-2024 14:28:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php on line 11
+[26-Mar-2024 14:28:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php on line 9
+[26-Mar-2024 14:28:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php on line 18
+[26-Mar-2024 14:28:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php on line 17
+[26-Mar-2024 14:28:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[26-Mar-2024 14:28:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php on line 16
+[26-Mar-2024 14:28:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php on line 16
+[26-Mar-2024 14:29:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[26-Mar-2024 14:29:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php on line 19
+[26-Mar-2024 14:29:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[26-Mar-2024 14:29:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[26-Mar-2024 14:29:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[26-Mar-2024 14:29:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[26-Mar-2024 14:29:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[26-Mar-2024 14:29:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php on line 24
+[26-Mar-2024 14:29:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php on line 11
+[26-Mar-2024 14:29:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php on line 11
+[26-Mar-2024 14:29:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php on line 11
+[26-Mar-2024 14:29:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/compat.php on line 338
+[26-Mar-2024 14:29:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/date.php on line 11
+[26-Mar-2024 14:29:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php on line 22
+[26-Mar-2024 14:29:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php on line 11
+[26-Mar-2024 14:29:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php on line 11
+[26-Mar-2024 14:29:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php on line 8
+[26-Mar-2024 14:29:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php on line 8
+[26-Mar-2024 14:29:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php on line 8
+[26-Mar-2024 14:29:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php on line 8
+[26-Mar-2024 14:29:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php on line 8
+[26-Mar-2024 14:29:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php on line 8
+[26-Mar-2024 14:29:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/functions.php on line 8
+[26-Mar-2024 14:29:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/locale.php on line 11
+[26-Mar-2024 14:29:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/websit19/laundryjakarta.com/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/media.php on line 2317
+[26-Mar-2024 14:29:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/meta.php on line 13
+[26-Mar-2024 14:29:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php on line 11
+[26-Mar-2024 14:29:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php on line 16
+[26-Mar-2024 14:29:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php on line 35
+[26-Mar-2024 14:29:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php on line 11
+[26-Mar-2024 14:29:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php on line 9
+[26-Mar-2024 14:29:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration.php on line 9
+[26-Mar-2024 14:29:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rss.php on line 19
+[26-Mar-2024 14:29:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php on line 20
+[26-Mar-2024 14:29:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/session.php on line 9
+[26-Mar-2024 14:29:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php on line 14
+[26-Mar-2024 14:29:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[26-Mar-2024 14:29:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php on line 7
+[26-Mar-2024 14:29:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/websit19/laundryjakarta.com/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/update.php on line 1149
+[26-Mar-2024 14:29:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/websit19/laundryjakarta.com/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/vars.php on line 23
+[26-Mar-2024 14:29:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php on line 13
+[26-Mar-2024 19:12:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[26-Mar-2024 19:13:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[26-Mar-2024 19:13:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[26-Mar-2024 19:13:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[27-Mar-2024 11:13:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[27-Mar-2024 11:14:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[27-Mar-2024 11:14:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[27-Mar-2024 11:14:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[27-Mar-2024 12:07:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php on line 9
+[27-Mar-2024 12:07:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/cache.php on line 12
+[27-Mar-2024 12:07:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php on line 42
+[27-Mar-2024 12:07:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php on line 10
+[27-Mar-2024 12:07:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-http.php on line 11
+[27-Mar-2024 12:07:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-json.php on line 2
+[27-Mar-2024 12:07:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php on line 12
+[27-Mar-2024 12:07:46 Asia/Jakarta] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/websit19/laundryjakarta.com/wp-includes/class-requests.php on line 24
+[27-Mar-2024 12:07:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php on line 5
+[27-Mar-2024 12:07:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php on line 6
+[27-Mar-2024 12:07:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php on line 6
+[27-Mar-2024 12:07:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php on line 17
+[27-Mar-2024 12:07:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php on line 17
+[27-Mar-2024 12:07:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php on line 17
+[27-Mar-2024 12:07:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php on line 17
+[27-Mar-2024 12:07:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php on line 17
+[27-Mar-2024 12:07:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php on line 17
+[27-Mar-2024 12:07:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php on line 709
+[27-Mar-2024 12:07:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php on line 411
+[27-Mar-2024 12:07:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php on line 412
+[27-Mar-2024 12:07:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php on line 964
+[27-Mar-2024 12:07:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php on line 11
+[27-Mar-2024 12:07:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php on line 9
+[27-Mar-2024 12:07:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php on line 18
+[27-Mar-2024 12:07:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php on line 17
+[27-Mar-2024 12:07:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[27-Mar-2024 12:07:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php on line 16
+[27-Mar-2024 12:07:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php on line 16
+[27-Mar-2024 12:08:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[27-Mar-2024 12:08:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php on line 19
+[27-Mar-2024 12:08:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[27-Mar-2024 12:08:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[27-Mar-2024 12:08:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[27-Mar-2024 12:08:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[27-Mar-2024 12:08:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[27-Mar-2024 12:08:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php on line 24
+[27-Mar-2024 12:08:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php on line 11
+[27-Mar-2024 12:08:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php on line 11
+[27-Mar-2024 12:08:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php on line 11
+[27-Mar-2024 12:08:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/compat.php on line 338
+[27-Mar-2024 12:08:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/date.php on line 11
+[27-Mar-2024 12:08:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php on line 22
+[27-Mar-2024 12:08:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php on line 11
+[27-Mar-2024 12:08:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php on line 11
+[27-Mar-2024 12:08:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php on line 8
+[27-Mar-2024 12:08:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php on line 8
+[27-Mar-2024 12:08:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php on line 8
+[27-Mar-2024 12:08:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php on line 8
+[27-Mar-2024 12:08:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php on line 8
+[27-Mar-2024 12:08:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php on line 8
+[27-Mar-2024 12:08:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/functions.php on line 8
+[27-Mar-2024 12:08:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/locale.php on line 11
+[27-Mar-2024 12:08:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/websit19/laundryjakarta.com/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/media.php on line 2317
+[27-Mar-2024 12:08:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/meta.php on line 13
+[27-Mar-2024 12:08:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php on line 11
+[27-Mar-2024 12:08:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php on line 16
+[27-Mar-2024 12:08:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php on line 35
+[27-Mar-2024 12:08:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php on line 11
+[27-Mar-2024 12:08:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php on line 9
+[27-Mar-2024 12:08:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration.php on line 9
+[27-Mar-2024 12:08:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rss.php on line 19
+[27-Mar-2024 12:08:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php on line 20
+[27-Mar-2024 12:08:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/session.php on line 9
+[27-Mar-2024 12:08:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php on line 14
+[27-Mar-2024 12:08:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[27-Mar-2024 12:08:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php on line 7
+[27-Mar-2024 12:08:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/websit19/laundryjakarta.com/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/update.php on line 1149
+[27-Mar-2024 12:08:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/websit19/laundryjakarta.com/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/vars.php on line 23
+[27-Mar-2024 12:08:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php on line 13
+[27-Mar-2024 19:47:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php on line 9
+[27-Mar-2024 19:48:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/cache.php on line 12
+[27-Mar-2024 19:48:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php on line 42
+[27-Mar-2024 19:48:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php on line 10
+[27-Mar-2024 19:48:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-http.php on line 11
+[27-Mar-2024 19:48:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-json.php on line 2
+[27-Mar-2024 19:48:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php on line 12
+[27-Mar-2024 19:48:04 Asia/Jakarta] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/websit19/laundryjakarta.com/wp-includes/class-requests.php on line 24
+[27-Mar-2024 19:48:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php on line 5
+[27-Mar-2024 19:48:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php on line 6
+[27-Mar-2024 19:48:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php on line 6
+[27-Mar-2024 19:48:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php on line 17
+[27-Mar-2024 19:48:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php on line 17
+[27-Mar-2024 19:48:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php on line 17
+[27-Mar-2024 19:48:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php on line 17
+[27-Mar-2024 19:48:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php on line 17
+[27-Mar-2024 19:48:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php on line 17
+[27-Mar-2024 19:48:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php on line 709
+[27-Mar-2024 19:48:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php on line 411
+[27-Mar-2024 19:48:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php on line 412
+[27-Mar-2024 19:48:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php on line 964
+[27-Mar-2024 19:48:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php on line 11
+[27-Mar-2024 19:48:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php on line 9
+[27-Mar-2024 19:48:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php on line 18
+[27-Mar-2024 19:48:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php on line 17
+[27-Mar-2024 19:48:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[27-Mar-2024 19:48:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php on line 16
+[27-Mar-2024 19:48:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php on line 16
+[27-Mar-2024 19:48:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[27-Mar-2024 19:48:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php on line 19
+[27-Mar-2024 19:48:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[27-Mar-2024 19:48:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[27-Mar-2024 19:48:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[27-Mar-2024 19:48:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[27-Mar-2024 19:48:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[27-Mar-2024 19:48:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php on line 24
+[27-Mar-2024 19:48:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php on line 11
+[27-Mar-2024 19:48:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php on line 11
+[27-Mar-2024 19:48:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php on line 11
+[27-Mar-2024 19:48:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/compat.php on line 338
+[27-Mar-2024 19:48:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/date.php on line 11
+[27-Mar-2024 19:48:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php on line 22
+[27-Mar-2024 19:48:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php on line 11
+[27-Mar-2024 19:48:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php on line 11
+[27-Mar-2024 19:48:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php on line 8
+[27-Mar-2024 19:48:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php on line 8
+[27-Mar-2024 19:48:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php on line 8
+[27-Mar-2024 19:48:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php on line 8
+[27-Mar-2024 19:48:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php on line 8
+[27-Mar-2024 19:48:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php on line 8
+[27-Mar-2024 19:48:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/functions.php on line 8
+[27-Mar-2024 19:48:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/locale.php on line 11
+[27-Mar-2024 19:48:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/websit19/laundryjakarta.com/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/media.php on line 2317
+[27-Mar-2024 19:48:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/meta.php on line 13
+[27-Mar-2024 19:48:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php on line 11
+[27-Mar-2024 19:48:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php on line 16
+[27-Mar-2024 19:48:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php on line 35
+[27-Mar-2024 19:48:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php on line 11
+[27-Mar-2024 19:48:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php on line 9
+[27-Mar-2024 19:48:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration.php on line 9
+[27-Mar-2024 19:48:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rss.php on line 19
+[27-Mar-2024 19:48:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php on line 20
+[27-Mar-2024 19:48:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/session.php on line 9
+[27-Mar-2024 19:49:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php on line 14
+[27-Mar-2024 19:49:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[27-Mar-2024 19:49:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php on line 7
+[27-Mar-2024 19:49:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/websit19/laundryjakarta.com/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/update.php on line 1149
+[27-Mar-2024 19:49:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/websit19/laundryjakarta.com/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/vars.php on line 23
+[27-Mar-2024 19:49:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php on line 13
+[28-Mar-2024 14:26:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-patterns.php on line 9
+[28-Mar-2024 14:26:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/cache.php on line 12
+[28-Mar-2024 14:26:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-IXR.php on line 42
+[28-Mar-2024 14:26:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-feed.php on line 10
+[28-Mar-2024 14:26:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-http.php on line 11
+[28-Mar-2024 14:26:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-json.php on line 2
+[28-Mar-2024 14:26:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-oembed.php on line 12
+[28-Mar-2024 14:27:00 Asia/Jakarta] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/websit19/laundryjakarta.com/wp-includes/class-requests.php on line 24
+[28-Mar-2024 14:27:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-simplepie.php on line 5
+[28-Mar-2024 14:27:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-smtp.php on line 6
+[28-Mar-2024 14:27:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-snoopy.php on line 6
+[28-Mar-2024 14:27:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category-dropdown.php on line 17
+[28-Mar-2024 14:27:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-category.php on line 17
+[28-Mar-2024 14:27:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-comment.php on line 17
+[28-Mar-2024 14:27:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-nav-menu.php on line 17
+[28-Mar-2024 14:27:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page-dropdown.php on line 17
+[28-Mar-2024 14:27:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-walker-page.php on line 17
+[28-Mar-2024 14:27:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-control.php on line 709
+[28-Mar-2024 14:27:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-panel.php on line 411
+[28-Mar-2024 14:27:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-section.php on line 412
+[28-Mar-2024 14:27:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-customize-setting.php on line 964
+[28-Mar-2024 14:27:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-feed-cache.php on line 11
+[28-Mar-2024 14:27:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-ixr-client.php on line 9
+[28-Mar-2024 14:27:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-hooks.php on line 18
+[28-Mar-2024 14:27:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http-requests-response.php on line 17
+[28-Mar-2024 14:27:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[28-Mar-2024 14:27:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-gd.php on line 16
+[28-Mar-2024 14:27:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-image-editor-imagick.php on line 16
+[28-Mar-2024 14:27:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[28-Mar-2024 14:27:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-file.php on line 19
+[28-Mar-2024 14:27:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[28-Mar-2024 14:27:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[28-Mar-2024 14:27:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[28-Mar-2024 14:27:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[28-Mar-2024 14:27:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[28-Mar-2024 14:27:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-xmlrpc-server.php on line 24
+[28-Mar-2024 14:27:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-dependencies.php on line 11
+[28-Mar-2024 14:27:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-scripts.php on line 11
+[28-Mar-2024 14:27:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class.wp-styles.php on line 11
+[28-Mar-2024 14:27:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/compat.php on line 338
+[28-Mar-2024 14:27:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/date.php on line 11
+[28-Mar-2024 14:27:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-filters.php on line 22
+[28-Mar-2024 14:27:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/default-widgets.php on line 11
+[28-Mar-2024 14:27:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/embed-template.php on line 11
+[28-Mar-2024 14:27:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom-comments.php on line 8
+[28-Mar-2024 14:27:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-atom.php on line 8
+[28-Mar-2024 14:27:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rdf.php on line 8
+[28-Mar-2024 14:27:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss.php on line 8
+[28-Mar-2024 14:27:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2-comments.php on line 8
+[28-Mar-2024 14:27:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/feed-rss2.php on line 8
+[28-Mar-2024 14:27:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/functions.php on line 8
+[28-Mar-2024 14:27:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/locale.php on line 11
+[28-Mar-2024 14:27:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/websit19/laundryjakarta.com/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/media.php on line 2317
+[28-Mar-2024 14:27:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/meta.php on line 13
+[28-Mar-2024 14:27:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-blogs.php on line 11
+[28-Mar-2024 14:27:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-default-filters.php on line 16
+[28-Mar-2024 14:27:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/ms-settings.php on line 35
+[28-Mar-2024 14:27:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/nav-menu-template.php on line 11
+[28-Mar-2024 14:27:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration-functions.php on line 9
+[28-Mar-2024 14:27:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/registration.php on line 9
+[28-Mar-2024 14:27:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/rss.php on line 19
+[28-Mar-2024 14:27:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/script-loader.php on line 20
+[28-Mar-2024 14:27:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/session.php on line 9
+[28-Mar-2024 14:27:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/spl-autoload-compat.php on line 14
+[28-Mar-2024 14:27:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12
+[28-Mar-2024 14:27:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-loader.php on line 7
+[28-Mar-2024 14:27:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/websit19/laundryjakarta.com/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/update.php on line 1149
+[28-Mar-2024 14:27:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/websit19/laundryjakarta.com/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/vars.php on line 23
+[28-Mar-2024 14:27:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/wp-diff.php on line 13
+[15-May-2024 07:35:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-http.php on line 11
+[15-May-2024 07:35:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-scripts.php on line 18
+[15-May-2024 07:35:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/class-wp-styles.php on line 18
+[15-May-2024 07:36:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/template-canvas.php on line 12

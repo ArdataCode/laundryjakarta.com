@@ -1,0 +1,32 @@
+[27-Jan-2024 15:45:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php on line 53
+[01-Feb-2024 23:10:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php on line 53
+[19-Mar-2024 17:36:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php on line 53
+[26-Mar-2024 05:31:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php on line 53
+[26-Mar-2024 14:29:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php on line 53
+[27-Mar-2024 12:08:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php on line 53
+[27-Mar-2024 19:49:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php on line 53
+[28-Mar-2024 14:27:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/SimplePie/Core.php on line 53

@@ -1,0 +1,64 @@
+[27-Jan-2024 15:39:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[27-Jan-2024 15:39:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[01-Feb-2024 23:10:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[01-Feb-2024 23:10:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[19-Mar-2024 17:35:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[19-Mar-2024 17:35:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[26-Mar-2024 05:30:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[26-Mar-2024 05:30:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[26-Mar-2024 14:28:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[26-Mar-2024 14:28:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[27-Mar-2024 12:08:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[27-Mar-2024 12:08:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[27-Mar-2024 19:47:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[27-Mar-2024 19:47:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[28-Mar-2024 14:27:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[28-Mar-2024 14:27:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

@@ -1,0 +1,16 @@
+[27-Jan-2024 16:01:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/websit19/laundryjakarta.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/html-api/class-wp-html-processor.php on line 131
+[01-Feb-2024 23:13:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/websit19/laundryjakarta.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/html-api/class-wp-html-processor.php on line 131
+[27-Mar-2024 12:12:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/websit19/laundryjakarta.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/html-api/class-wp-html-processor.php on line 131
+[28-Mar-2024 14:31:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/websit19/laundryjakarta.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/html-api/class-wp-html-processor.php on line 131

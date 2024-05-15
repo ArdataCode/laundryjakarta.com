@@ -1,0 +1,16 @@
+[19-Mar-2024 17:39:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/laundryjakarta.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[26-Mar-2024 05:34:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/laundryjakarta.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[26-Mar-2024 14:33:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/laundryjakarta.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[27-Mar-2024 19:53:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/laundryjakarta.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12

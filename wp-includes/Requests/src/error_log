@@ -1,0 +1,4 @@
+[27-Jan-2024 15:42:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/websit19/laundryjakarta.com/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/Requests/src/Hooks.php on line 19

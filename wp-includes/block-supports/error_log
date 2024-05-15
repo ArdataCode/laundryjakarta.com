@@ -1,0 +1,560 @@
+[27-Jan-2024 15:51:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php on line 59
+[27-Jan-2024 15:51:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php on line 111
+[27-Jan-2024 15:51:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php on line 170
+[27-Jan-2024 15:51:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php on line 138
+[27-Jan-2024 15:52:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php on line 59
+[27-Jan-2024 15:52:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php on line 87
+[27-Jan-2024 15:52:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php on line 36
+[27-Jan-2024 15:52:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php on line 231
+[27-Jan-2024 15:52:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php on line 66
+[27-Jan-2024 15:52:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php on line 851
+[27-Jan-2024 15:52:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php on line 145
+[27-Jan-2024 15:52:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php on line 151
+[27-Jan-2024 15:52:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php on line 76
+[27-Jan-2024 15:52:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php on line 83
+[27-Jan-2024 15:52:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php on line 646
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php on line 59
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php on line 111
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php on line 170
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php on line 138
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php on line 59
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php on line 87
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php on line 36
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php on line 231
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php on line 66
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php on line 851
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php on line 145
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php on line 151
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php on line 76
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php on line 83
+[01-Feb-2024 23:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php on line 646
+[19-Mar-2024 17:38:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php on line 59
+[19-Mar-2024 17:38:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php on line 111
+[19-Mar-2024 17:38:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php on line 170
+[19-Mar-2024 17:38:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php on line 138
+[19-Mar-2024 17:38:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php on line 59
+[19-Mar-2024 17:38:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php on line 87
+[19-Mar-2024 17:38:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php on line 36
+[19-Mar-2024 17:38:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php on line 231
+[19-Mar-2024 17:38:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php on line 66
+[19-Mar-2024 17:38:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php on line 851
+[19-Mar-2024 17:38:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php on line 145
+[19-Mar-2024 17:38:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php on line 151
+[19-Mar-2024 17:38:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php on line 76
+[19-Mar-2024 17:38:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php on line 83
+[19-Mar-2024 17:38:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php on line 646
+[26-Mar-2024 05:33:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php on line 59
+[26-Mar-2024 05:33:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php on line 111
+[26-Mar-2024 05:33:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php on line 170
+[26-Mar-2024 05:33:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php on line 138
+[26-Mar-2024 05:33:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php on line 59
+[26-Mar-2024 05:33:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php on line 87
+[26-Mar-2024 05:33:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php on line 36
+[26-Mar-2024 05:33:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php on line 231
+[26-Mar-2024 05:33:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php on line 66
+[26-Mar-2024 05:33:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php on line 851
+[26-Mar-2024 05:33:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php on line 145
+[26-Mar-2024 05:33:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php on line 151
+[26-Mar-2024 05:33:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php on line 76
+[26-Mar-2024 05:33:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php on line 83
+[26-Mar-2024 05:33:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php on line 646
+[26-Mar-2024 14:31:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php on line 59
+[26-Mar-2024 14:31:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php on line 111
+[26-Mar-2024 14:31:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php on line 170
+[26-Mar-2024 14:31:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php on line 138
+[26-Mar-2024 14:31:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php on line 59
+[26-Mar-2024 14:31:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php on line 87
+[26-Mar-2024 14:31:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php on line 36
+[26-Mar-2024 14:31:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php on line 231
+[26-Mar-2024 14:31:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php on line 66
+[26-Mar-2024 14:31:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php on line 851
+[26-Mar-2024 14:31:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php on line 145
+[26-Mar-2024 14:31:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php on line 151
+[26-Mar-2024 14:31:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php on line 76
+[26-Mar-2024 14:31:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php on line 83
+[26-Mar-2024 14:31:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php on line 646
+[27-Mar-2024 12:13:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php on line 59
+[27-Mar-2024 12:13:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php on line 111
+[27-Mar-2024 12:13:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php on line 170
+[27-Mar-2024 12:13:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php on line 138
+[27-Mar-2024 12:13:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php on line 59
+[27-Mar-2024 12:13:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php on line 87
+[27-Mar-2024 12:13:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php on line 36
+[27-Mar-2024 12:13:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php on line 231
+[27-Mar-2024 12:13:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php on line 66
+[27-Mar-2024 12:13:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php on line 851
+[27-Mar-2024 12:13:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php on line 145
+[27-Mar-2024 12:13:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php on line 151
+[27-Mar-2024 12:13:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php on line 76
+[27-Mar-2024 12:13:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php on line 83
+[27-Mar-2024 12:13:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php on line 646
+[27-Mar-2024 19:51:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php on line 59
+[27-Mar-2024 19:51:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php on line 111
+[27-Mar-2024 19:51:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php on line 170
+[27-Mar-2024 19:51:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php on line 138
+[27-Mar-2024 19:51:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php on line 59
+[27-Mar-2024 19:51:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php on line 87
+[27-Mar-2024 19:51:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php on line 36
+[27-Mar-2024 19:51:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php on line 231
+[27-Mar-2024 19:51:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php on line 66
+[27-Mar-2024 19:51:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php on line 851
+[27-Mar-2024 19:51:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php on line 145
+[27-Mar-2024 19:51:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php on line 151
+[27-Mar-2024 19:51:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php on line 76
+[27-Mar-2024 19:51:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php on line 83
+[27-Mar-2024 19:51:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php on line 646
+[28-Mar-2024 14:32:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/align.php on line 59
+[28-Mar-2024 14:32:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php on line 111
+[28-Mar-2024 14:32:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php on line 170
+[28-Mar-2024 14:32:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/colors.php on line 138
+[28-Mar-2024 14:32:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/custom-classname.php on line 59
+[28-Mar-2024 14:32:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php on line 87
+[28-Mar-2024 14:32:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php on line 36
+[28-Mar-2024 14:32:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php on line 231
+[28-Mar-2024 14:32:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/generated-classname.php on line 66
+[28-Mar-2024 14:32:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php on line 851
+[28-Mar-2024 14:32:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php on line 145
+[28-Mar-2024 14:32:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php on line 151
+[28-Mar-2024 14:32:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php on line 76
+[28-Mar-2024 14:32:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php on line 83
+[28-Mar-2024 14:32:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/typography.php on line 646
+[19-Apr-2024 20:41:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php on line 131
+[19-Apr-2024 20:41:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/background.php on line 131
+[19-Apr-2024 20:41:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php on line 170
+[19-Apr-2024 20:41:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/border.php on line 170
+[19-Apr-2024 20:41:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php on line 164
+[19-Apr-2024 20:41:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/dimensions.php on line 164
+[19-Apr-2024 20:41:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php on line 36
+[19-Apr-2024 20:41:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/duotone.php on line 36
+[19-Apr-2024 20:41:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php on line 231
+[19-Apr-2024 20:41:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/elements.php on line 231
+[19-Apr-2024 20:41:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php:855
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php on line 855
+[19-Apr-2024 20:41:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php:855
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/layout.php on line 855
+[19-Apr-2024 20:41:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php on line 145
+[19-Apr-2024 20:41:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/position.php on line 145
+[19-Apr-2024 20:41:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php on line 151
+[19-Apr-2024 20:41:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/settings.php on line 151
+[19-Apr-2024 20:41:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php on line 75
+[19-Apr-2024 20:41:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/shadow.php on line 75
+[19-Apr-2024 20:41:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php on line 83
+[19-Apr-2024 20:41:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/laundryjakarta.com/wp-includes/block-supports/spacing.php on line 83
